@@ -1,0 +1,91 @@
+{
+  "hash": "f06f8e9a",
+  "configHash": "c7f4b30d",
+  "lockfileHash": "2b667d28",
+  "browserHash": "f485d224",
+  "optimized": {
+    "@vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.7.7/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "ccd152e6",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/.pnpm/@vuepress+shared@2.0.0-rc.23/node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "f47e5bae",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.16/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "1f197f79",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/.pnpm/vue-router@4.5.1_vue@3.5.16/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "0a300920",
+      "needsInterop": false
+    },
+    "@composables/index.js": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/composables/index.js",
+      "file": "@composables_index__js.js",
+      "fileHash": "9b942ffa",
+      "needsInterop": false
+    },
+    "@utils/resolveStyles.js": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/utils/resolveStyles.js",
+      "file": "@utils_resolveStyles__js.js",
+      "fileHash": "1e51d668",
+      "needsInterop": false
+    },
+    "@utils/index.js": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/utils/index.js",
+      "file": "@utils_index__js.js",
+      "fileHash": "e8970a95",
+      "needsInterop": false
+    },
+    "@utils/other.js": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/utils/other.js",
+      "file": "@utils_other__js.js",
+      "fileHash": "70c0cda6",
+      "needsInterop": false
+    },
+    "@components/global/index.js": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/components/global/index.js",
+      "file": "@components_global_index__js.js",
+      "fileHash": "d5128ea0",
+      "needsInterop": false
+    },
+    "@components/icons/index.js": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/components/icons/index.js",
+      "file": "@components_icons_index__js.js",
+      "fileHash": "f07d2eb0",
+      "needsInterop": false
+    },
+    "@utils/other": {
+      "src": "../../../../node_modules/.pnpm/vuepress-theme-reco@2.0.0-rc.26_@algolia+client-search@5.28.0_@types+node@24.0.3_@vueus_7b77752834b28d7a7269686f3a1a3de2/node_modules/vuepress-theme-reco/lib/client/utils/other.js",
+      "file": "@utils_other.js",
+      "fileHash": "a4946819",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EZ7L4OLN": {
+      "file": "chunk-EZ7L4OLN.js"
+    },
+    "chunk-663ILQD2": {
+      "file": "chunk-663ILQD2.js"
+    },
+    "chunk-IMKUJ42E": {
+      "file": "chunk-IMKUJ42E.js"
+    },
+    "chunk-QJUFEH3V": {
+      "file": "chunk-QJUFEH3V.js"
+    },
+    "chunk-UVKRO5ER": {
+      "file": "chunk-UVKRO5ER.js"
+    }
+  }
+}
